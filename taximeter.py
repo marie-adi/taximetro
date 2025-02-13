@@ -77,20 +77,20 @@ Total fare: {self.total_fare:.2f}€
 def show_welcome_message():
  
     print("""
-╔════════════════════════════════════╗
-║        Welcome to TaxiMeter        ║
-╚════════════════════════════════════╝
+   ╔════════════════════════════════════╗
+🚕 ║        Welcome to TaxiMeter        ║ 🚕
+   ╚════════════════════════════════════╝
 
-This program calculates taxi fares based on:
-• Stopped time: 0.02€ per second
-• Moving time: 0.05€ per second
+🟢 This program calculates taxi fares based on:
+🔹 Stopped time: 0.02€ per second
+🔹 Moving time: 0.05€ per second
 
-Available commands:
-1. start   - Start a new trip
-2. move    - Toggle between moving/stopped
-3. status  - Show current status
-4. end     - End current trip
-5. quit    - Exit program
+🟢 Available commands:
+🔹 start   - Start a new trip
+🔹 move    - Toggle between moving/stopped
+🔹 status  - Show current status
+🔹 end     - End current trip
+🔹 quit    - Exit program
 
 """)
 
