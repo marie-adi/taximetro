@@ -33,11 +33,11 @@ python taximeter.py
 Una vez que el programa esté en ejecución, podrás interactuar con él a través de una serie de comandos:
 📋 Comandos disponibles:
 
-    start: Inicia un nuevo viaje. 🏁
-    move: Alterna entre los estados "en movimiento" y "detenido". 🚗↔️🛑
-    status: Muestra el estado actual del viaje (en movimiento o detenido) y la tarifa acumulada. 📊
-    end: Finaliza el viaje y muestra un resumen con la duración total y la tarifa acumulada. 🏁💰
-    quit: Sale del programa. 👋
+    🏁 start: Inicia un nuevo viaje. 
+    ↔️ move: Alterna entre los estados "en movimiento" y "detenido". 🚗
+    📊 status: Muestra el estado actual del viaje (en movimiento o detenido) y la tarifa acumulada. 
+    💰 end: Finaliza el viaje y muestra un resumen con la duración total y la tarifa acumulada. 
+    👋 quit: Sale del programa. 
 
 📌 Ejemplo de uso:
 ```bash
